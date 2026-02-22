@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "DOWN",
+  "base_artist": "DADA",
+  "createdAt": "2026-02-22T18:14:22.139793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blow The Man Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Blow_The_Man_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Johnny Come Down To Hilo",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/02_Johnny_Come_Down_To_Hilo_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Back Down",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/03_Never_Back_Down_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pay Me My Money Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/04_Pay_Me_My_Money_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker feat. Noah Cyrus, Digital Farm Animals & Juliander",
+      "has_synced": true,
+      "path": "select/05_All_Falls_Down_Alan_Walker_feat._Noah_Cyrus,_Digital_Farm_Animals_&_Juliander.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker;Noah Cyrus;Digital Farm Animals;Juliander",
+      "has_synced": true,
+      "path": "select/06_All_Falls_Down_Alan_Walker;Noah_Cyrus;Digital_Farm_Animals;Juliander.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Calm Down",
+      "artist": "Rema",
+      "has_synced": true,
+      "path": "select/07_Calm_Down_Rema.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Down To One",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/08_Down_To_One_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Down Under",
+      "artist": "Men At Work",
+      "has_synced": true,
+      "path": "select/09_Down_Under_Men_At_Work.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Right Down The Line",
+      "artist": "Gerry Rafferty",
+      "has_synced": true,
+      "path": "select/10_Right_Down_The_Line_Gerry_Rafferty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Settling Down",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/11_Settling_Down_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Settling Down (Album)",
+      "artist": "Miranda Lambert",
+      "has_synced": true,
+      "path": "select/12_Settling_Down_(Album)_Miranda_Lambert.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slow Down",
+      "artist": "Nick Walker",
+      "has_synced": true,
+      "path": "select/13_Slow_Down_Nick_Walker.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slow Down Summer",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/14_Slow_Down_Summer_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Slow Down Summer",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/15_Slow_Down_Summer_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "down home",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/16_down_home_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "down home",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/17_down_home_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What Goes on When the Sun Goes Down",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/18_What_Goes_on_When_the_Sun_Goes_Down_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Way Down",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/19_Way_Down_Elvis_Presley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOWN",
+      "artist": "DADA",
+      "has_synced": false,
+      "path": "select/pl_01_DOWN_DADA.txt"
+    }
+  ]
+}
